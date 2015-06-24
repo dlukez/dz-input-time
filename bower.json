@@ -1,0 +1,26 @@
+{
+  "name": "dz-input-time",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dlukez/dz-input-time",
+  "authors": [
+    "Daniel Zimmermann"
+  ],
+  "description": "A dependency-free time input for AngularJS.",
+  "main": "dz.input-time.js",
+  "keywords": [
+    "angular",
+    "input",
+    "time"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dz-input-time.spec.js",
+    ".jshintrc",
+    ".gitignore",
+    "Gulpfile.js",
+    "karma.conf.js"
+  ]
+}
