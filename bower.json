@@ -17,7 +17,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "dz-input-time.spec.js",
+    "dz.input-time.spec.js",
     ".jshintrc",
     ".gitignore",
     "Gulpfile.js",
